@@ -1,4 +1,4 @@
-module github.com/dklis/stash-explorer
+module github.com/dklisiarchis/stash-explorer
 
 go 1.25.5
 

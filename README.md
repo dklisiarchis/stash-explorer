@@ -18,13 +18,13 @@ A lightweight TUI tool for interactively exploring git stashes. Browse stashes, 
 ## Install
 
 ```bash
-go install github.com/dklis/stash-explorer@latest
+go install github.com/dklisiarchis/stash-explorer@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/dklis/stash-explorer.git
+git clone https://github.com/dklisiarchis/stash-explorer.git
 cd stash-explorer
 go build
 ```
